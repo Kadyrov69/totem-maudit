@@ -3,7 +3,7 @@ title: "Mon Art"
 order: 0
 in_menu: true
 ---
-# Portefolio d'art de Kadyrov
+# <ins>Portefolio d'art de Kadyrov</ins>
 
 Voici une œuvre crée sur Alchemy en 4 étapes :
  
