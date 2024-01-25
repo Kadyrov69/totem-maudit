@@ -5,7 +5,7 @@ in_menu: true
 ---
 # Le Support de Création
 
-## <ins>***Alchemy*** : An open drawing project<ins>
+> ## <ins>***Alchemy*** : An open drawing project<ins>
 
 ![Logo d'Alchemy]({% link images/d2pitlf-279c704c-a9f8-46fa-844c-9ccee35c4887.png %})
 
