@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-order: 2
+order: 3
 in_menu: true
 ---
 # <ins>Mon profil Instagram</ins>
