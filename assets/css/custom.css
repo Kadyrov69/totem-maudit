@@ -1,5 +1,7 @@
 :root {
-    --couleur-primaire : # #OE6270;
+    --couleur-primaire: #OE6270;
 }
 
-body {background-color:   #  # #CECE22     ;}
+html {
+  background-color: #00539f;
+}
