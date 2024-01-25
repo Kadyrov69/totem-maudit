@@ -32,7 +32,7 @@ Il s'agit d'un outil de dessin expérimental qui offre une approche différente 
 ## <ins> ***Stable Diffusion*** <ins>
 
 
-***Après avoir esquissé un dessin sur notre fameux programme "Alchemy", je le soumets à l'IA Stable Diffusion pour qu'elle l'interprète et génère des variantes créatives, enrichissant ainsi les possibilités artistiques de ma création initiale.***
+> ***Après avoir esquissé un dessin sur notre fameux programme "Alchemy", je le soumets à l'IA Stable Diffusion pour qu'elle l'interprète et génère des variantes créatives, enrichissant ainsi les possibilités artistiques de ma création initiale.***
 
 > ***Voici le lien :***
 <https://www.stable-diffusion-france.fr/> 
