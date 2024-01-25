@@ -7,7 +7,7 @@ in_menu: true
 
 ![Première étape d'un dessin sur Alchemy, un projet artistique et libre]({% link images/DFGFGFF.PNG %})
 
-![Seconde étape]({% link images/GYGVGHGH.jpg %})
+![Seconde étape]({% link images/GYGVGHGH.PNG %})
 
 ![Troisième étape]({% link images/CapturBGXGFXGFXe.PNG %})
 
