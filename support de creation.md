@@ -3,9 +3,9 @@ title: "Support de création"
 order: 3
 in_menu: true
 ---
-## Le Support de Création
+# Le Support de Création
 
-# ***Alchemy*** : An open drawing project
+## ***Alchemy*** : An open drawing project
 
 ![Logo d'Alchemy]({% link images/d2pitlf-279c704c-a9f8-46fa-844c-9ccee35c4887.png %})
 
@@ -29,7 +29,7 @@ Il s'agit d'un outil de dessin expérimental qui offre une approche différente 
 [!TIP] ***Voici le lien :***
 <https://al.chemy.org/> 
 
-# Stable Diffusion
+## Stable Diffusion
 
 '''
 ***Après avoir esquissé un dessin sur notre fameux programme "Alchemy", je le soumets à l'IA Stable Diffusion pour qu'elle l'interprète et génère des variantes créatives, enrichissant ainsi les possibilités artistiques de ma création initiale.***
