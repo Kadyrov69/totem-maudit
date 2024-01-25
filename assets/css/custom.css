@@ -1,6 +1,4 @@
-:root {
-    --couleur-primaire: #OE6270;
-}
+:root {   --primary-color: #B4D455; }
 
 html {
   background-color: #53606C;
