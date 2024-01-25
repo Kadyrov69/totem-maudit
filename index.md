@@ -15,7 +15,7 @@ in_menu: true
  
 ![Seconde étape]({% link images/GYGVGHGH.PNG %})
 
-- Encore un peut de détail...
+- Encore un peu de détail...
 
 ![Troisième étape]({% link images/CapturBGXGFXGFXe.PNG %})
 
