@@ -10,19 +10,19 @@ in_menu: true
 ![Logo d'Alchemy]({% link images/d2pitlf-279c704c-a9f8-46fa-844c-9ccee35c4887.png %})
 
 
-> ***Récemment j'ai découvert un logiciel libre qui en premier lieu me repoussais puis je l'ai pris en mains et depuis je ne peut plus m'en passer tellement qu'il est inspirant !***
+> ***Récemment j’ai découvert un logiciel libre qui en premier lieu me repoussais puis je l’ai pris en mains et depuis je ne peux plus m’en passer tellement qu’il est inspirant.***
 
 
-- ***Alchemy*** n'est pas un logiciel pour créer des illustrations terminées, mais plutôt un environnement de croquis. 
-Il s'agit d'un outil de dessin expérimental qui offre une approche différente de la création artistique. Le logiciel vise à encourager la créativité en proposant des fonctionnalités uniques telles que des formes aléatoires, des symétries et des pinceaux dynamiques.
+- ***Alchemy***  
 
-- Ce logiciel se distingue par son approche non conventionnelle du dessin. Il encourage les utilisateurs à explorer de nouvelles idées et à générer des formes de manière spontanée.
+Il s’agit d’un outil de dessin / croquis expérimental qui offre une approche différente de la création artistique. Le logiciel vise à encourager la créativité en proposant des fonctionnalités uniques telles que des formes aléatoires, des symétries et des pinceaux dynamiques permettant aux artistes de créer des motifs complexes et des compositions équilibrées.
 
-- L'interface est minimaliste, mettant l'accent sur la simplicité pour favoriser la créativité sans interface complexe.
+- Ce logiciel se distingue par son approche non conventionnelle du dessin. Il aide les utilisateurs à explorer de nouvelles idées et à générer des formes de manière spontanée.
 
-- Le logiciel propose des outils permettant de générer des formes aléatoires, ce qui peut offrir beaucoup d'inspiration.
+- L'interface est minimaliste, mettant l’accent sur la simplicité pour favoriser l'imagination sans interface complexe.
 
-- Ce programme propose des fonctionnalités telles que la symétrie ou encore des pinceaux dynamiques, permettant aux artistes de créer des motifs complexes et des compositions équilibrées.
+- Le logiciel propose des outils permettant de générer des formes aléatoires, ce qui peut offrir beaucoup de possibilités.
+
 
 - ***Alchemy*** est distribué en tant que projet open source, ce qui signifie que son code source est accessible au public. 
 
@@ -32,7 +32,7 @@ Il s'agit d'un outil de dessin expérimental qui offre une approche différente 
 ## <ins> ***Stable Diffusion*** <ins>
 
 
-> ***Après avoir esquissé un dessin sur notre fameux programme "Alchemy", je le soumets à l'IA Stable Diffusion pour qu'elle l'interprète et génère des variantes créatives, enrichissant ainsi les possibilités artistiques de ma création initiale.***
+> ***Après avoir esquissé un dessin sur notre fameux programme "Alchemy", je le soumets à l’IA nommée Stable Diffusion pour qu’elle l’interprète et génère des variantes créatives, enrichissant ainsi les possibilités artistiques de ma création initiale.***
 
 > ***Voici le lien :***
 <https://www.stable-diffusion-france.fr/> 
