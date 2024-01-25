@@ -5,7 +5,7 @@ in_menu: true
 ---
 # <ins>Portefolio d'art de Kadyrov</ins>
 
-Voici une œuvre crée sur Alchemy en 4 étapes :
+> Voici une œuvre crée sur Alchemy en 4 étapes :
  
 - Premièrement j'ai réaliser une sorte de "carcasse" métallique :
  
