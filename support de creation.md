@@ -7,10 +7,10 @@ in_menu: true
 
 > ## <ins>***Alchemy*** : An open drawing project<ins>
 
-![Logo d'Alchemy]({% link images/d2pitlf-279c704c-a9f8-46fa-844c-9ccee35c4887.png %})
+![Logo d'Alchemy]({% link images/CaptureALCHEMY.PNG %})
 
 
-> ***Récemment j’ai découvert un logiciel libre qui en premier lieu me repoussais puis je l’ai pris en mains et depuis je ne peux plus m’en passer tellement qu’il est inspirant.***
+> ***Récemment j’ai découvert un logiciel libre qui en premier lieu me paraissait exotique, depuis je ne peux plus m’en passer tellement qu’il est inspirant.***
 
 
 - ***Alchemy***  
