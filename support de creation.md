@@ -23,4 +23,4 @@ Ce programme propose des fonctionnalités telles que la symétrie ou encore des 
 Alchemy est distribué en tant que projet open source, ce qui signifie que son code source est accessible au public. 
 
 Voici le lien :
-https://al.chemy.org/ 
+<https://al.chemy.org/> 
