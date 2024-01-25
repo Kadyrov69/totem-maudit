@@ -26,5 +26,5 @@ Il s'agit d'un outil de dessin expérimental qui offre une approche différente 
 
 - ***Alchemy*** est distribué en tant que projet open source, ce qui signifie que son code source est accessible au public. 
 
-***Voici le lien :***
+[!TIP] ***Voici le lien :***
 <https://al.chemy.org/> 
