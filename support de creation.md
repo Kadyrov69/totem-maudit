@@ -36,3 +36,5 @@ Il s'agit d'un outil de dessin expérimental qui offre une approche différente 
 
 > ***Voici le lien :***
 <https://www.stable-diffusion-france.fr/> 
+
+![Logo de Stable Diffusion]({% link images/stableIA.jpg %}) 
