@@ -9,6 +9,8 @@ in_menu: true
 
 ![Logo d'Alchemy]({% link images/d2pitlf-279c704c-a9f8-46fa-844c-9ccee35c4887.png %})
 
+Récemment j'ai découvert un logiciel libre qui en premier lieu me repoussais puis je l'ai pris en mains et depuis je ne peut plus m'en passer tellement qu'il est inspirant !
+
 Alchemy n'est pas un logiciel pour créer des illustrations terminées, mais plutôt un environnement de croquis. 
 Il s'agit d'un outil de dessin expérimental qui offre une approche différente de la création artistique. Le logiciel vise à encourager la créativité en proposant des fonctionnalités uniques telles que des formes aléatoires, des symétries et des pinceaux dynamiques.
 
