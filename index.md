@@ -7,15 +7,15 @@ in_menu: true
 
 > Voici une œuvre crée sur Alchemy en 4 étapes :
  
-- Premièrement j'ai réaliser une sorte de "carcasse" métallique :
+- Premièrement j'ai réaliser un cyborg détaillé avec un certain panel de couleurs : 
  
-![Première étape d'un dessin sur Alchemy, un projet artistique et libre]({% link images/DFGFGFF.PNG %})
+![Première étape d'un dessin sur Alchemy]({% link images/DFGFGFF.PNG %})
 
-- Ensuite j'ai ajouté une armure à la silhouette
+- Ensuite j'ai ajouté une armure à la silhouette :
  
 ![Seconde étape]({% link images/GYGVGHGH.PNG %})
 
-- Puis du détail 
+- Encore un peut de détail...
 
 ![Troisième étape]({% link images/CapturBGXGFXGFXe.PNG %})
 
