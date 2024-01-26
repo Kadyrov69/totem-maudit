@@ -3,14 +3,17 @@
 
 
 header {
-    background-color: #000000;
-    border-bottom: 5px solid #ff4800;
+    background-color: #ff1800;
+    border-bottom: 8px solid #000;
 }
 
 footer {
     background-color:#ff4800;
     color:#ff4800;
     border-top: 5px solid #ff4800;
+}
+
+blockquote {border-left: 8px solid #f00
 }
 
 a {color: #ff4800;
