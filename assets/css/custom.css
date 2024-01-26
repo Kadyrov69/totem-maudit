@@ -20,14 +20,14 @@ body {
   height: 100vh;
   overflow-x: hidden;
 }
-img {
+/*img {
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-69.5%, -26%);
   opacity: 0.2;
   height: 1300px;
-}
+}*/
 .lava-lamp {
   height: calc(var(--height) * 1px);
   width: calc(var(--width) * 1px);
