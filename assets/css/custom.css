@@ -6,11 +6,15 @@ h1 { color: #f00000 ;
 
 a { color: #ff6542;
 }
+
 footer { background-color: #ff6542;
  border-top :5px solid #ff6542;
 }
 
 header { background-color: #ff6542;
+}
+
+header a { color : #F00000;
 }
 * {
   box-sizing: border-box;
