@@ -5,6 +5,7 @@ h1 { color: #f00000 ;
 }
 
 footer { background-color: #ff6542;
+ border-top :5px solid #ff6542;
 }
 
 header { background-color: #ff6542;
