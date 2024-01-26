@@ -1,12 +1,14 @@
-:root {   --primary-color: #ff6542;
+:root {  
 color : #000000
 ;
-font-family: papyrus ;}
-
-h1 { color: #f00000
+font-family: papyrus ;
 }
 
+h1 { color: #f00000 ;
+}
 
+header { background-color: #ff6542;
+}
 * {
   box-sizing: border-box;
 }
