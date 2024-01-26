@@ -32,16 +32,16 @@ body {
 	/*background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);*/
         background: radial-gradient(circle, rgba(249,63,251,1) 35%, rgba(70,86,252,1) 87%);
 	height: 100%;
+ background: #1c0136;
+  min-height: 100vh;
+
 }
 
 
  {
   box-sizing: border-box;
 }
-body {
-  background: #1c0136;
-  min-height: 100vh;
-}
+
 .scene {
   align-items: center;
   display: flex;
@@ -51,19 +51,13 @@ body {
   height: 100vh;
   overflow-x: hidden;
 }
-img {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-69.5%, -26%);
-  opacity: 0.2;
-  height: 1300px;
+
 }
 .lava-lamp {
   height: calc(var(--height) * 1px);
   width: calc(var(--width) * 1px);
   position: relative;
-}
+
 .lava-lamp:after {
   content: '';
   height: 500px;
