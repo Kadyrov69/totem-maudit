@@ -4,13 +4,16 @@
 
 header {
     background-color: #000000;
-    border-bottom: 5px solid white;
+    border-bottom: 5px solid #ff4800;
 }
 
 footer {
-    background-color:rgba(249,63,251,1);
-    color:#ff530f;
-    border-top: 5px solid white;
+    background-color:#ff4800;
+    color:#ff4800;
+    border-top: 5px solid #ff4800;
+}
+
+a {color: #ff4800;
 }
 
 h1 {
