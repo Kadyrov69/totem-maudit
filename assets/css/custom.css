@@ -1,17 +1,14 @@
 :root {   --primary-color: #B7190F
 ; }
 
-body {
-  background-color: #FFEC00;
-font-family: papyrus;
-color: #FF5733
-}
-
-
 * {
   box-sizing: border-box;
 }
 body {
+ background-color: #FFEC00;
+font-family: papyrus;
+color: #FF5733
+
   background: #1c0136;
   min-height: 100vh;
 }
