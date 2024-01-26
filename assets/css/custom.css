@@ -31,7 +31,9 @@ h1 {
     background-color: #fff00f;
     border: solid #000000;
 }
-header a {color :#ff7800}
+
+header a {color :#000;
+}
 
 body {
         font-family: giorgia,sans-serif;
@@ -264,3 +266,22 @@ width: 100%;
     transition: left 0.65s ease-out;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-69.5%, -26%);
+  opacity: 0.2;
+  height: 1300px;
+}
