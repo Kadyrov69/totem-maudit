@@ -9,7 +9,7 @@
 }
 body {
   background: #1c0136;
-  min-height: 100vh;
+  min-height: 50vh;
 }
 .scene {
   align-items: center;
