@@ -7,7 +7,7 @@ in_menu: true
 
 > Voici une œuvre crée sur Alchemy en 4 étapes :
  
-- Premièrement j'ai réaliser un cyborg détaillé avec un certain panel de couleurs : 
+- Premièrement j'ai réalisé un cyborg détaillé avec un certain panel de couleurs : 
  
 ![Première étape d'un dessin sur Alchemy]({% link images/DFGFGFF.PNG %})
 
