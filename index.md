@@ -19,13 +19,13 @@ in_menu: true
 
 ![Troisième étape]({% link images/CapturBGXGFXGFXe.PNG %})
 
-> - Pour finir j'ai travaillé un fond plutôt abstrait pour combler le vide ambiant
+> - Pour finir j'ai travaillé un fond plutôt abstrait pour combler le vide ambiant :
 
 ![Quatrième et dernière étape]({% link images/BHJHBHJB.PNG %}) 
 
 ---
 
-> - Voici un exemple d'interprétation d'une Intelligence Artificielle sur l'un de mes dessin (l'original est sur la première image). 
+> - Voici un exemple d'interprétation d'une Intelligence Artificielle sur l'un de mes dessins (l'original est sur la première image). 
 
 
 <div class="slider-container">
@@ -49,7 +49,7 @@ in_menu: true
 
 
 
-
+Vidéo réalisée sur le logiciel Alchemy :
 
 
 <video src="Vidéo sans titre ‐ Réalisée avec Clipchamp (1).mp4" width="669" height="auto" controls>
