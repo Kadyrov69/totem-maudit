@@ -13,7 +13,7 @@ in_menu: true
 > ***Récemment j’ai découvert un logiciel libre qui en premier lieu me paraissait exotique, depuis je ne peux plus m’en passer tellement qu’il est inspirant.***
 
 
-- ***Alchemy***  
+ 
 
 Il s’agit d’un outil de dessin / croquis expérimental qui offre une approche différente de la création artistique. Le logiciel vise à encourager la créativité en proposant des fonctionnalités uniques telles que des formes aléatoires, des symétries et des pinceaux dynamiques permettant aux artistes de créer des motifs complexes et des compositions équilibrées.
 
