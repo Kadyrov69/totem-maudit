@@ -7,25 +7,25 @@ in_menu: true
 
  Voici une œuvre crée sur Alchemy en 4 étapes :
  
-> - Premièrement j'ai réalisé un cyborg détaillé avec un certain panel de couleurs : 
+## > - Premièrement j'ai réalisé un cyborg détaillé avec un certain panel de couleurs : 
  
 ![Première étape d'un dessin sur Alchemy]({% link images/DFGFGFF.PNG %})
 
-> - Ensuite j'ai ajouté une armure à la silhouette :
+## > - Ensuite j'ai ajouté une armure à la silhouette :
  
 ![Seconde étape]({% link images/GYGVGHGH.PNG %})
 
-> - Encore un peu de détail...
+## > - Encore un peu de détail...
 
 ![Troisième étape]({% link images/CapturBGXGFXGFXe.PNG %})
 
-> - Finalement j'ai travaillé un fond abstrait pour combler le vide ambiant :
+## > - Finalement j'ai travaillé un fond abstrait pour combler le vide ambiant :
 
 ![Quatrième et dernière étape]({% link images/BHJHBHJB.PNG %}) 
 
 ---
 
-> - <ins>Voici un exemple d'interprétation d'une Intelligence Artificielle sur l'un de mes dessins (l'original est sur la première image). </ins>
+## > - <ins>Voici un exemple d'interprétation d'une Intelligence Artificielle sur l'un de mes dessins (l'original est sur la première image). </ins>
 
 
 <div class="slider-container">
@@ -49,7 +49,7 @@ in_menu: true
 
 
 
-> - <ins>Vidéo réalisée sur le logiciel Alchemy :</ins>
+## > - <ins>Vidéo réalisée sur le logiciel Alchemy :</ins>
 
 
 <video src="Vidéo sans titre ‐ Réalisée avec Clipchamp (1).mp4" width="669" height="auto" controls>
