@@ -24,7 +24,7 @@ in_menu: true
 ![Quatrième et dernière étape]({% link images/BHJHBHJB.PNG %}) 
 
 
-- Voici un exemple d'interprétation 
+- Voici un exemple d'interprétation d'une Intelligence Artificielle sur l'un de mes dessin (l'original est sur la première image). 
 
 
 <div class="slider-container">
