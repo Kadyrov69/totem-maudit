@@ -25,7 +25,7 @@ in_menu: true
 
 ---
 
-> - Voici un exemple d'interprétation d'une Intelligence Artificielle sur l'un de mes dessins (l'original est sur la première image). 
+> <ins> - Voici un exemple d'interprétation d'une Intelligence Artificielle sur l'un de mes dessins (l'original est sur la première image). </ins>
 
 
 <div class="slider-container">
@@ -49,7 +49,7 @@ in_menu: true
 
 
 
-Vidéo réalisée sur le logiciel Alchemy :
+> <ins> -Vidéo réalisée sur le logiciel Alchemy :</ins>
 
 
 <video src="Vidéo sans titre ‐ Réalisée avec Clipchamp (1).mp4" width="669" height="auto" controls>
