@@ -47,10 +47,6 @@ color : #ff7800;
 
 
 
-
-
-
-
 html, body {
     width: 100%;
     height: 100%;
@@ -95,7 +91,7 @@ img {
 }
 .slide-img {
     width: 100%;
-    height: 100%;
+    height: 300px;
     position: absolute;
     top: 0;
     left: 100%;
