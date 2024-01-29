@@ -26,11 +26,8 @@ in_menu: true
 
 
 
-<html>
-    <head>
-        <title>Custom Slider</title>
-    </head>
-    <body>
+
+
         <div class="slider-container">
             <div class="menu">
                 <label for="slide-dot-1"></label>
@@ -47,6 +44,4 @@ in_menu: true
             <input class="slide-input" id="slide-dot-3" type="radio" name="slides">
             <img class="slide-img" src="images/San ccvvcs titre.jpg">
 
-        </div>
-    </body>
-</html> 
+        </div> 
