@@ -1,8 +1,10 @@
 ---
-title: "Support de création"
+title: "<ins>Support de création<ins>"
 order: 2
 in_menu: true
 ---
+<br/>
+
 > ## <ins>***Alchemy*** : An open drawing project<ins>
 
 ![Logo d'Alchemy]({% link images/CaptureALCHEMY.PNG %})
