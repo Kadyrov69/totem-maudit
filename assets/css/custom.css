@@ -44,7 +44,7 @@ color : #ff7800;
 
 }
 
-video { border: solid 8px #ffa801;
+video { border: solid 8px #ff4800;
 }
 
 
@@ -56,7 +56,7 @@ html, body {
 }
 img {
     max-width: 100%;
-    border: 8px solid #ffa801;
+    border: 8px solid #ff4800;
 }
 
 
