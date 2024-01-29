@@ -10,7 +10,7 @@ header {
 footer {
     background-color:#ff4800;
     color:#ff4800;
-    border-top: 5px solid #ff4800;
+    border-top: 5px solid #ffa801;
 }
 
 blockquote {border-left: 8px solid #f00
@@ -41,10 +41,11 @@ body {
  background: #353535;
 color : #ff7800;
   min-height: 100vh;  
+text-shadow: 0 0 4px #ffffff
 
 }
 
-video { border: solid 8px #ff4800;
+video { border: solid 8px #ffa801;
 }
 
 
