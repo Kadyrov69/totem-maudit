@@ -19,7 +19,7 @@ in_menu: true
 
 ![Troisième étape]({% link images/CapturBGXGFXGFXe.PNG %})
 
-> - Pour finir j'ai travaillé un fond plutôt abstrait pour combler le vide ambiant :
+> - Finalement j'ai travaillé un fond abstrait pour combler le vide ambiant :
 
 ![Quatrième et dernière étape]({% link images/BHJHBHJB.PNG %}) 
 
