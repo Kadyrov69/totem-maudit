@@ -1,5 +1,5 @@
 ---
-title: "<ins>Support de création<ins>"
+title: "Support de création"
 order: 2
 in_menu: true
 ---
