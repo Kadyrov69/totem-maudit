@@ -3,8 +3,6 @@ title: "Support de création"
 order: 2
 in_menu: true
 ---
-# Le Support de Création
-
 > ## <ins>***Alchemy*** : An open drawing project<ins>
 
 ![Logo d'Alchemy]({% link images/CaptureALCHEMY.PNG %})
