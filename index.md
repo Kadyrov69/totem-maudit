@@ -45,3 +45,13 @@ in_menu: true
     <img class="slide-img" src="images/San ccvvcs titre.jpg">
 
 </div> 
+
+
+
+
+
+
+
+<video src="Vidéo sans titre ‐ Réalisée avec Clipchamp (1).mp4" width="640" height="auto" controls>
+    Merci de mettre à jour votre navigateur pour lire la vidéo
+</video> 
