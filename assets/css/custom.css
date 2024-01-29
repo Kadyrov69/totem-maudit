@@ -55,6 +55,7 @@ html, body {
 }
 img {
     max-width: 100%;
+    border: 8px solid #ff4800;
 }
 
 
