@@ -10,10 +10,10 @@ header {
 footer {
     background-color:#ff4800;
     color:#ff4800;
-    border-top: 5px solid #ffa801;
+    border-top: 5px solid #000;
 }
 
-blockquote {border-left: 8px solid #f00
+blockquote {border-left: 8px solid #ffa801
 }
 
 a {color: #ff4800;
@@ -56,7 +56,7 @@ html, body {
 }
 img {
     max-width: 100%;
-    border: 8px solid #ff4800;
+    border: 8px solid #ffa801;
 }
 
 
